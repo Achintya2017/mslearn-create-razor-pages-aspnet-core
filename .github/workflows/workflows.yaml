@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    name: Azure Pipeline
+    name: Azure Pipeline version
     runs-on: windows-latest
     steps:
     - name: Run Azure Pipeline
